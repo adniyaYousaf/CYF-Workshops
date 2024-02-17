@@ -4,6 +4,8 @@
   grid-template:
     "logo space page button" var(--finger) /
     var(--finger) var(--space) 1fr var(--finger);
+    padding-bottom: 2rem;
+    border-bottom: 2px solid purple;
 }
 .header__heading {
   grid-area: logo;

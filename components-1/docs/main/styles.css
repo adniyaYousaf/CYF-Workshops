@@ -6,9 +6,12 @@
 }
 
 .main__deck {
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(var(--box), 1fr));
   gap: var(--space);
+  justify-content: center;
+  align-items: center;
 }
 
 .main__copy {

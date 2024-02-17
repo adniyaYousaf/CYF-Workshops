@@ -3,6 +3,8 @@
   box-shadow: 2px 4px 16px var(--shade);
   display: flex;
   flex-flow: column-reverse;
+  justify-content: center;
+  width: 20rem;
   align-items: center;
   overflow: hidden;
 }

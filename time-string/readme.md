@@ -29,6 +29,7 @@ To break down this problem, we will only start considering seconds inputs <= 60.
 
 ```js
 formatAsSecondsAsString(1) // "1 second" 
+function fo 
 ```
 
 ```js
